@@ -335,7 +335,8 @@ export const workHistoryData: WorkExperience[] = [
       "Executed structured test scripts and technical control evaluations across 12+ infrastructure components, relational database schemas, and data integrity logic.",
       "Assessed enterprise authentication architectures — SSO, MFA, and IAM policies — alongside system availability, failover configurations, and network security controls.",
       "Embedded security best practices and compliance requirements (NIST CSF, ISO 27001, PCI-DSS) throughout client delivery lifecycles and infrastructure reviews.",
-      "Assessed enterprise infrastructure spanning GCP, Azure, and IBM mainframe environments as part of hybrid cloud risk assessments."
+      "Assessed enterprise infrastructure spanning GCP, Azure, and IBM mainframe environments as part of hybrid cloud risk assessments.",
+      "TEST TO SEE CHANGES"
     ],
     impactMetrics: [
       "Structured technical reviews across 12+ infrastructure components per engagement",
